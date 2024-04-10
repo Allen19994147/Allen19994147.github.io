@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Let's make a change in GitHub repository directly Haha.
 
 This message is included for testing 'Pull'.
+
+This message is added from local master, we want it to be push to GitHub, origin master.
